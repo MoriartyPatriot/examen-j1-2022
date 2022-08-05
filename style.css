@@ -1,0 +1,21 @@
+.abs-center {
+    width: 400px;
+    height: 1020px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    background-color: rgb(146, 135, 135);
+}
+
+.form {
+  width: 450px;
+}
+.form-control{
+    font-family: "Font Awesome 5 Free"; font-weight: 200; content: "\f007";
+}
+.titulos{
+    font-weight: 500    ;
+}
